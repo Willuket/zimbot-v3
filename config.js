@@ -37,9 +37,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','918188019676']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
+global.owner = ['2348084114655','2347025235185']
+global.premium = ['2348084114655','2347025235185']
+global.botname = 'will uchiha'
 global.packname = 'ZIM BOT INC'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -64,7 +64,7 @@ global.mess = {
     success: '*success whoa*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
+    botAdmin: '*will do if Im admin make me admin or your gay*',
     owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
